@@ -1,0 +1,9 @@
+C:\Users\Daniela\source\repos\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csprojAssemblyReference.cache
+C:\Users\Daniela\source\repos\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.Form1.resources
+C:\Users\Daniela\source\repos\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.Properties.Resources.resources
+C:\Users\Daniela\source\repos\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.csproj.GenerateResource.cache
+C:\Users\Daniela\source\repos\Proyecto_Tecnicas\bin\Debug\Proyecto_Tecnicas.exe.config
+C:\Users\Daniela\source\repos\Proyecto_Tecnicas\bin\Debug\Proyecto_Tecnicas.exe
+C:\Users\Daniela\source\repos\Proyecto_Tecnicas\bin\Debug\Proyecto_Tecnicas.pdb
+C:\Users\Daniela\source\repos\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.exe
+C:\Users\Daniela\source\repos\Proyecto_Tecnicas\obj\Debug\Proyecto_Tecnicas.pdb
